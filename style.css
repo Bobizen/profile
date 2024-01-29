@@ -24,6 +24,11 @@
     border-radius: 50px;
   }
 
+  .table-experience {
+    display: inline-block;
+    padding: 0px 20px;
+  }
+
   li {
     color: #ccd5ae;
     display: inline-block;
